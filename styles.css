@@ -13,6 +13,20 @@
     grid-template-rows: 75px repeat(10, 35px) 1fr;
     align-items: center;
     color: white;
+    font-size: 18px;
+}
+
+.sidebar-icon {
+    padding-left: 8px;
+}
+
+.icon {
+    padding-left: 10px;
+    padding-top: 5px;
+}
+
+.sidebar-header {
+    font-size: 22px;
 }
 
 .header {
